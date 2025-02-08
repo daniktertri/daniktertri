@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniktertri
-- 👀 I’m interested in software developement and cybersecurity
-- 🌱 I’m currently studing at school and learning much about programming/developement :)
+- 👀 I’m interested in software development and cybersecurity
+- 🌱 I’m currently studying at school and learning much about programming/development :)
 - 📫 Telegram : @F5etF245fi15 
 - 📤 EMail : work.daniel.teurtrie@gmail.com
 - 🧑‍💻 Projects: https://daniktertri.github.io/
